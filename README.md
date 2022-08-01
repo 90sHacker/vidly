@@ -10,7 +10,7 @@ A backend video rental service
 
 baseurl - 'https://my-vidly-app.herokuapp.com' <br>
 
-Genres /api/genres
+## Genres /api/genres
 - GET / (get all genres) <br>
 *sample response*
 ```
